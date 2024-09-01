@@ -15,7 +15,7 @@ This is the step to set up your computer. If you already have VSCode installed, 
 VSCode is a code editor we will use in our tutorials. If you are worried about writing code, don't worry, the code we will write is easy-to-use and we'll work it together so you can make awesome apps. I'm with you. We can do this! 
 
 To install VSCode, follow the steps below. 
-1. Go to [https://code.visualstudio.com/]
+1. Go to [code.visualstudio.com/](https://code.visualstudio.com/)
 2. Choose the `Download` button
 3. When the file downloads, click (or double-click) on it to start to install it on your computer. Once it's installed, we can use it in our tutorials. 
 4. Follow the instructions on the VSCode screen. Most times, choosing the `Next` button on each screen will install VSCode just fine. 
@@ -27,16 +27,23 @@ To install VSCode, follow the steps below.
 First, let's create an HTML file. This will be the screen (or webpage or user-interface).
 
 1. Open a text editor (like VSCode or notepad).
-2. Save the file as `index.html`.
+2. Open a new file. On the top left menu, choose `File` > `New Text File`
 
-Copy and paste the following code into your `index.html` file:
+*Pro tip*: Press and hold `Ctrl` and then press `n` on your keyboard to make a new file
+
+3. Save the file as `index.html`. On the left menu, choose `File` > `Save`. This also works to save your work as you add to your file.
+
+*Pro tip*: Press and hold `Ctrl` and then press `s` on your keyboard to save your file.  
+
+4. In the prompt that opens, type `index.html` then press the `Save` button. 
+
+5. Now, you're ready to add the `HTML` code. Copy and paste the following code into your `index.html` file:
 
 ```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">    
     <title>Number Guessing Game</title>
 </head>
 <body>
@@ -60,10 +67,11 @@ Next, we'll create a JavaScript file to add the game logic.
 Copy and paste the following code into your `script.js` file:
 
 ```javascript
-// Generate a random number between 1 and 10
-const randomNumber = Math.floor(Math.random() * 10) + 1;
 
 function checkGuess() {
+    // Generate a random number between 1 and 10
+    const randomNumber = Math.floor(Math.random() * 10) + 1;
+
     // Get the user's guess from the input field
     const userGuess = document.getElementById('guess').value;
 
@@ -82,6 +90,34 @@ function checkGuess() {
 2. Double-click on `index.html` to open it in your web browser.
 
 Now you have a simple number guessing game! 🎉
+
+## Step 4: Make it better!
+How can we make this better? Here are some ideas: 
+
+### 1. Change it to guess from 1 to 100. 
+
+*Hint*: Look at this line in the `script.js` file. Remember to Save after making the change. Refresh the browser window to reload your app after making a change. 
+```javascript
+    const randomNumber = Math.floor(Math.random() * 10) + 1;
+```
+
+### 2. Add background color to the page. 
+
+Add this code to your html file just below the `</head>` tag. 
+```html
+<style>
+    body 
+    {
+        background-color:gray;
+    }
+</style>
+```
+
+### 4. Make your app work on a phone. 
+Add this line to your `HTML` file inside the `<head>` section: 
+```html
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
 
 ---
 
