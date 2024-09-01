@@ -119,6 +119,10 @@ Add this line to your `HTML` file inside the `<head>` section:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 
+## How did it turn out? 
+## What do you think about coding? 
+## What do you want to learn next? 
+
 ---
 
 Feel free to ask if you have any questions or need further assistance!
