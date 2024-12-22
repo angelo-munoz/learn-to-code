@@ -7,7 +7,7 @@ In this lesson, we learn how to make AI give us the best, most correct answers u
 Your mission is to research information about the our `Sun` (or any topic you're interested in). We want short, correct information. 
 
 ## Step 1: Try it without prompt engineering
-1. Open [chatgpt.com](chatgpt.com).
+1. Open [chatgpt.com](https://wwww.chatgpt.com).
 
 2. If prompted, choose 'Stay Logged Out', unless you have a login.
 ![image](https://github.com/user-attachments/assets/6038322f-97c4-4651-8e1f-29e4f3f318b5)
