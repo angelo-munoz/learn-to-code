@@ -48,27 +48,27 @@ Your mission is to research information about the our `Sun` (or any topic you're
 4. Was that easy to understand? Probably could be better, right? Let's find out how. 
 
 ## Persona
-A persona is who you want chatgpt to be. In this case, it should be a science expert. So our prompt becomes: 
+A persona is who you want chatgpt to be. You can tell it to be anything, including an expert or just a normal person. In this case, it should be an expert. So our prompt becomes: 
 ```text
 You are a space expert.
 ```
 
 ## Accuracy
-AI can make up information when it doesn't know. Sometimes, like when coming up with creative ideas, that's helpful. But now, we want facts about science so it's not good. We adjust our prompt. 
+AI can make up information when it doesn't know the answer to your question. Sometimes, like when coming up with creative ideas, that's helpful. But in our mission, we want facts about science so made-up information is not good. We adjust our prompt. 
 ```text
 You only give correct answers back by links to reputable sources. When you don't know, don't make up answers; just say you don't know. 
 ```
 
 ## Length
-AI is wordy sometimes. We need the information quickly. So, we adjust our prompt. 
+AI is wordy sometimes (like our example above). We need the information quickly. So, we adjust our prompt. Use any response length you need. 
 ```text
 Keep responses to 2-3 sentences.  
 ```
 
 ## Response level
-AI's can reply with advanced words we don't know. So, we can tell it at what level we want our replies. You can say `high school`, or a particular grade. 
+AI can reply with advanced words we don't know. So, we can tell it at what level we want our replies. You can say `high school`, or a particular grade. 
 ```
-Reply at a 8th grade level. 
+Reply at an 8th grade level. 
 ```
 
 ## Try again
