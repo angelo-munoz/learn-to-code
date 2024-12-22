@@ -85,7 +85,7 @@ Tell me about the Sun.
 | --- | ---|
 | [Long response above](#no-prompt-reply) | The Sun is a star located at the center of our Solar System, made mostly of hydrogen and helium. It produces energy through nuclear fusion, where hydrogen atoms fuse to form helium, releasing light and heat. For more details, you can visit [NASA's Sun page](https://www.nasa.gov/sun) and [ESA's Sun science overview](https://www.esa.int/Science_Exploration/Space_Science/The_Sun).|
 
-** So, which one do you prefer? The long, unformatted response, or the shorter more accurate response? **
+**So, which one do you prefer? The long, unformatted response, or the shorter more accurate response?**
 
 ## Bonus
 Try these bonus examples and make them better. 
