@@ -4,7 +4,7 @@ ChatGPT is an AI (artificial intelligence) to help you be faster and better at y
 In this lesson, we learn how to make AI give us the best, most correct answers using `prompt engineering`. 
 
 ## Mission
-Your mission is to research information about the our `Sun` (or any topic you're interested in). We want short, correct information. 
+Your mission is to research information about the `Sun` (or any topic you're interested in). We want short, correct information. 
 
 ## Step 1: Try it without prompt engineering
 1. Open [chatgpt.com](https://chatgpt.com).
