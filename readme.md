@@ -4,7 +4,7 @@ This repo has tutorials for people learning to code. I made this repo to teach m
 Enjoy!
 
 ## Tutorials
-* ***Guessing Game***. How good of a guesser are you? Guess a number between 1 and 10. 
+* [Guessing Game](guessing-game). How good of a guesser are you? Guess a number between 1 and 10. 
 
 ## Encouragement   
 If you don't understand something, don't give up! It takes some work but stick with it and it gets easier each time. 
