@@ -66,7 +66,7 @@ Keep responses to 2-3 sentences.
 ```
 
 ## Response level
-AI can reply with advanced words we don't know. So, we can tell it at what level we want our replies. You can say `high school`, or a particular grade. 
+AI can reply with advanced words we don't know. So, we it at what level we want our replies. You can say `high school`, or a particular grade. 
 ```
 Reply at an 8th grade level. 
 ```
