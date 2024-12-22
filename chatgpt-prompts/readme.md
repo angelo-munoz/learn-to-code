@@ -13,10 +13,10 @@ Your mission is to research information about the our `Sun` (or any topic you're
 ![image](https://github.com/user-attachments/assets/6038322f-97c4-4651-8e1f-29e4f3f318b5)
 
 3. Type in the chat: "Tell me about the Sun". You will get an answer like the one below (this is an actual ChatGPT response). 
-```text
-The Sun is a massive star located at the center of our solar system. It is the primary source of light and energy for Earth and other planets, and its gravity keeps the entire solar system in orbit. Here are some key details about the Sun:
 
-### 1. **Composition and Structure**
+> The Sun is a massive star located at the center of our solar system. It is the primary source of light and energy for Earth and other planets, and its gravity keeps the entire solar system in orbit. Here are some key details about the Sun:
+> 
+> ### 1. **Composition and Structure**
    - **Core**: The Sun's core, where nuclear fusion occurs, is the hottest part of the Sun, reaching temperatures of around 15 million°C (27 million°F). This process produces the energy that powers the Sun.
    - **Radiative Zone**: Above the core, energy is transferred outward through radiation. Photons generated in the core can take thousands of years to reach the outer layers.
    - **Convective Zone**: This is the outer layer where energy is transported by convection, with hot plasma rising and cooler plasma sinking.
@@ -45,7 +45,7 @@ The Sun is a massive star located at the center of our solar system. It is the p
 
 The Sun’s combination of size, mass, and energy makes it the cornerstone of life in our solar system. Its energy is crucial for weather patterns, photosynthesis, and the sustaining of all life forms on Earth.
 4. Was that easy to understand? Probably could be better, right? Let's find out how. 
-```
+
 
 ## Persona
 A persona is who you want chatgpt to be. In this case, it should be a science expert. So our prompt becomes: 
