@@ -27,7 +27,8 @@ To find the different species, let's add a table.
 4. Choose `Ok` on the popup to add the table.
 
 Here are the steps:
-![image](https://github.com/user-attachments/assets/59d6b11c-e936-4c10-8cdf-8f41302d6d64)
+![image](https://github.com/user-attachments/assets/bfd00d85-9fd0-4a23-b84f-b3eef50cc91c)
+
 
  
 You should see something like this after you add your table (your color may be a bit different): 
