@@ -14,7 +14,7 @@ Now, we'd like to learn about these penguins!
 4. Other types of questions we can answer using the size, weight, gender, and species.
 
 ## Step 1: Open the Dataset
-1. Download the [penguins.csv](./penguins.csv) file. The browser will show you when it's downloaded.
+1. Download the [penguins.csv](https://github.com/angelo-munoz/learn-to-code/raw/refs/heads/main/data-visualization/penguins.csv) file. The browser will show you when it's downloaded.
 2. Open it in Microsoft Excel by clicking on the downloaded file, or go to the `My Downloads` folder and double click the file. 
 You should see something like this in Microsoft Excel: 
 ![image](https://github.com/user-attachments/assets/ee6ce425-eb55-45c2-8b31-6a43c9ea189e)
